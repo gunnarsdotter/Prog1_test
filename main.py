@@ -1,3 +1,3 @@
 # Petra Gunnarsdotter
 
-print("Petra Gunnarsdotter")
+print("Gunnarsdotter")
